@@ -1,1 +1,1 @@
-# 8-bit-microcomputer
+# 8-Bit-Microcomputer
